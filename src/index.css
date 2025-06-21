@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Bonheur+Royale&family=Funnel+Display:wght@300..800&family=Gravitas+One&family=Rammetto+One&display=swap');
+@import "tailwindcss";
+@font-face {
+  font-family: Klore;
+  font-style: normal;
+  font-weight: 200 700;
+  font-display: swap;
+  src: url("./fonts/Kloredemo.ttf") format("ttf");
+}
+
+@theme {
+    --font-gravitas-one-regular: "Gravitas One", "serif";
+    --font-bonheur-royale-regular: "Bonheur Royale", "cursive";
+    --font-rammetto-one-regular: "Rammetto One", "sans-serif";
+    --font-funnel-display:"Funnel Display", "sans-serif";
+  --font-display: "Klore", "sans-serif"; 
+  --font-display--font-feature-settings: "cv02", "cv03", "cv04", "cv11"; 
+  --font-display--font-variation-settings: "opsz" 32;
+}
