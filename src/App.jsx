@@ -1,6 +1,5 @@
 import About from "./components/About.jsx"
 import Header from "./components/Header.jsx"
-import Navbar from "./components/Navbar.jsx"
 
 function App() {
 
