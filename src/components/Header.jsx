@@ -1,7 +1,7 @@
 import React from 'react'
 import {motion} from 'framer-motion'
 import backImage from '../images/background.jpg'
-import Navbar from './Navbar.jsx'
+import Navbar from '../components/Navbar.jsx'
 
 const Header = () => {
   const container = (delay,x,duration)=>({
