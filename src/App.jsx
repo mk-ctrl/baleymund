@@ -1,6 +1,6 @@
-import About from "./components/About"
-import Header from "./components/Header"
-import Navbar from "./components/navbar"
+import About from "./components/About.jsx"
+import Header from "./components/Header.jsx"
+import Navbar from "./components/Navbar.jsx"
 
 function App() {
 
